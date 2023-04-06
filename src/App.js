@@ -151,6 +151,7 @@ function App() {
                     <span className="skill">Bootstrap</span>
                     <span className="skill">Git</span>
                     <span className="skill">Bitbucket</span>
+                    <span className="skill">Firebase</span>
                   </div>
                 </div>
 
