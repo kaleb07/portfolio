@@ -284,7 +284,7 @@ function App() {
                   <div className="timeline-item">
                     <div className="timeline-date">2019</div>
                     <div className="timeline-content">
-                      <h3>TaniHub - (Interhship)</h3>
+                      <h3>TaniHub - (Internship)</h3>
                       <p>
                         I was an intern at PT. TaniHub Indonesia where I build
                         mobile app in 3 months. In this project I have
