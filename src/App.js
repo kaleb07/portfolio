@@ -110,7 +110,7 @@ function App() {
               ></a>
             </div>
             <a
-              href="https://drive.google.com/file/d/1E178laA548QlwfRQg9Hqbw5UExoT-dcl/view?usp=sharing"
+              href="https://drive.google.com/file/d/1Au76_lfhYuVrraA5XQKGh2Px7nppmlyO/view?usp=sharing"
               target="_blank"
               className="cta"
             >
@@ -145,6 +145,7 @@ function App() {
                     <span className="skill">CSS</span>
                     <span className="skill">JavaScript</span>
                     <span className="skill">React JS</span>
+                    <span className="skill">Next JS</span>
                     <span className="skill">React Native</span>
                     <span className="skill">React-Hooks</span>
                     <span className="skill">Redux-Saga</span>
@@ -152,6 +153,8 @@ function App() {
                     <span className="skill">Git</span>
                     <span className="skill">Bitbucket</span>
                     <span className="skill">Firebase</span>
+                    <span className="skill">Midtrans</span>
+                    <span className="skill">Xendit</span>
                   </div>
                 </div>
 
@@ -243,11 +246,26 @@ function App() {
             </section>
 
             <section className="content-card experience" id="experience">
-              <h1>Experience</h1>
+              <h1>Experiences</h1>
               <div className="timeline">
                 <div className="timeline-items">
                   <div className="timeline-item">
-                    <div className="timeline-date">2022 - now</div>
+                    <div className="timeline-date">Aug 2023 - present</div>
+                    <div className="timeline-content">
+                      <h3>IDEAL - (Full Time)</h3>
+                      <p>
+                        The purpose of this project is developing a web
+                        application dashboard to maintain customer KPR in IDEAL.
+                        In this project I have responsibility to implement UI
+                        based on operation team requirement into a complete app,
+                        integrate API to the application, handling
+                        authentication and role management, and fixing bugs.
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="timeline-item">
+                    <div className="timeline-date">Feb 2022 - Aug 2023</div>
                     <div className="timeline-content">
                       <h3>CIMB Niaga - (Contract)</h3>
                       <p>
@@ -261,7 +279,7 @@ function App() {
                     </div>
                   </div>
                   <div className="timeline-item">
-                    <div className="timeline-date">2021 - 2022</div>
+                    <div className="timeline-date">Jan 2021 - Feb 2022</div>
                     <div className="timeline-content">
                       <h3>Cepat Sembuh Hidup Sehat - (Contract)</h3>
                       <br></br>
